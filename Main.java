@@ -12,7 +12,7 @@ class Main {
     people = new ArrayList<Person>();
 
     people.add(new Person("Samuel", 21, "blue"));
-    people.add(new Person("A", 87, "pinl"));
+    people.add(new Person("A", 87, "pink"));
     people.add(new Person("B", 13, "yellow"));
     people.add(new Person("C", 55, "black"));
     people.add(new Person("D", 4, "green"));

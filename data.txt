@@ -3,7 +3,7 @@ Samuel
 blue
 A
 87
-pinl
+pink
 B
 13
 yellow
