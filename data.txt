@@ -1,0 +1,15 @@
+Samuel
+21
+blue
+A
+87
+pinl
+B
+13
+yellow
+C
+55
+black
+D
+4
+green
